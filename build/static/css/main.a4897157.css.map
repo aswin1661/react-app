@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.a4897157.css","mappings":"AAAA,OACI,qBAA8B,CAC9B,aACJ","sources":["app.css"],"sourcesContent":[".hello{\r\n    background-color: rgb(0, 0, 0);\r\n    color: aliceblue;\r\n}"],"names":[],"sourceRoot":""}
